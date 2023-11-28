@@ -33,6 +33,7 @@ Run the game by executing the command: node filename.js
 ![Screenshot 2023-11-28 170137](https://github.com/EvanC54/GamblingJS/assets/64505599/06ca275f-59eb-48a5-8ad4-8e103544a779)
 
 ![Screenshot 2023-11-28 170307](https://github.com/EvanC54/GamblingJS/assets/64505599/d1dca363-cd8a-41f1-a4d4-68673f280291)
+
 exceptions 
 
 ![Screenshot 2023-11-28 170334](https://github.com/EvanC54/GamblingJS/assets/64505599/5f3eead6-5d99-4c97-9fc3-33c6d3c6f28c)
